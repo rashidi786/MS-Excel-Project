@@ -1,8 +1,8 @@
-\# Hyat Store Dashboard Data Analysis
+# Hyat Store Dashboard Data Analysis
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,7 +10,7 @@ This project focuses on analyzing the sales data of Hyat Store across different 
 
 
 
-\## Data Cleaning and Preparation
+## Data Cleaning and Preparation
 
 
 
@@ -26,7 +26,7 @@ I also identified missing values in the dataset and handled them appropriately t
 
 
 
-\## Dashboard and Analysis
+## Dashboard and Analysis
 
 
 
@@ -38,7 +38,7 @@ Interactive elements such as slicers and charts allow users to explore the data 
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 
 
@@ -46,7 +46,7 @@ Interactive elements such as slicers and charts allow users to explore the data 
 
 
 
-\## Tools Used
+## Tools Used
 
 
 
@@ -54,7 +54,7 @@ Microsoft Excel, Data Cleaning, Pivot Tables, Pivot Charts, Interactive Slicers,
 
 
 
-\## Project Objective
+## Project Objective
 
 
 
