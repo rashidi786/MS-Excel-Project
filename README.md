@@ -42,7 +42,7 @@ Interactive elements such as slicers and charts allow users to explore the data 
 
 
 
-!\[Hyat Store Dashboard](dashboard.png)
+![Hyat Store Dashboard](Hyat%20Store%20Dashboard%20png.png)
 
 
 
