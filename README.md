@@ -1,6 +1,10 @@
 # Hyat Store Dashboard Data Analysis
 
+## Dashboard Preview
 
+
+
+![Hyat Store Dashboard](Hyat%20Store%20Dashboard%20png.png)
 
 ## Project Overview
 
@@ -36,13 +40,6 @@ After cleaning and preparing the data, I created an interactive dashboard in Mic
 
 Interactive elements such as slicers and charts allow users to explore the data from different perspectives and understand the underlying trends.
 
-
-
-## Dashboard Preview
-
-
-
-![Hyat Store Dashboard](Hyat%20Store%20Dashboard%20png.png)
 
 
 
